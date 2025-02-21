@@ -44,11 +44,4 @@ I’m a software engineer with a strong foundation in security-focused developme
 [[Brendon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon-mcgee80&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](Your Blog Post URL)
-- [Another Blog Post Title](Another Blog Post URL)
-<!-- BLOG-POST-LIST:END -->
-
 ---
