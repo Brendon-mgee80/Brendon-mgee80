@@ -28,7 +28,7 @@ I’m a software engineer with a strong foundation in security-focused developme
 🛡️ Expanding my expertise in AI engineering 
 🤖 Exploring AI-driven security tools and automation
 - 📫 How to reach me: brendon.mcgee80@gmail.com
-- ⚡ Fun fact: I love traveling the globe, reading, hiking and good bourbon!
+- ⚡ Fun fact: I love traveling the globe, reading, holistic health, hiking and good bourbon!
 
 ### 🛠️ Languages and Tools:
 
