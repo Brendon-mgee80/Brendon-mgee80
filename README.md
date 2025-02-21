@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me:
-🔹 Security-Focused Software Engineer | Cloud & Cybersecurity Enthusiast
+🔹 Security-Focused Software Engineer | Cloud & Security Engineer
 
 I’m a software engineer with a strong foundation in security-focused development, cloud engineering, and cybersecurity. My background includes:
 
