@@ -13,15 +13,22 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a Aspiring Software Developer based in Fort Worth, TX. I have a passion for holistic health, traveling, and love to create innovative solutions.
+🔹 Security-Focused Software Engineer | Cloud & Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on a mindfulness application
-- 🌱 I’m currently learning [What You're Learning]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
+I’m a software engineer with a strong foundation in security-focused development, cloud engineering, and cybersecurity. My background includes:
+
+✅ Engineering security-based tooling and software
+✅ Experience with JavaScript, Node.js, Express, MongoDB, and REST APIs
+✅ Knowledge of front-end technologies (HTML, CSS, UI/UX, SPAs)
+✅ Expertise in testing frameworks (Jasmine, Cypress) and Agile methodologies
+✅ Strong communication & problem-solving skills from a security-focused military background
+
+🔍 Current Focus
+🚀 Diving into React for software development opportunities
+🛡️ Expanding my expertise in AI engineering 
+🤖 Exploring AI-driven security tools and automation
 - 📫 How to reach me: brendon.mcgee80@gmail.com
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: I love traveling the globe, reading, hiking and good bourbon!
 
 ### 🛠️ Languages and Tools:
 
